@@ -685,6 +685,7 @@ a {
 
 .nav__brand {
   transform: translateY(5px);
+  margin: 1rem 1rem;
 }
 
 @media screen and (min-width: 768px) {
